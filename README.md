@@ -1,5 +1,5 @@
 # UCSD-CSE-151B-Class-Competition---Kagglistaz
-milestone1-kagglistaz created by GitHub Classroom
+
 This is the original code that was used as part of submissions to the following Kaggle [competition](https://www.kaggle.com/competitions/ucsd-cse-151b-class-competition/overview)
 
 
