@@ -4,7 +4,7 @@ This is the original code that was used as part of submissions to the following 
 
 
 The project description is as follows:
-To improve transportation, it is important to be able to predict how long a taxi driver will have his or her taxi occupied. If a central dispatch system knows approximately when a taxi driver would be ending their current ride, it would be able to assign drivers more efficiently to each pickup request.
+> To improve transportation, it is important to be able to predict how long a taxi driver will have his or her taxi occupied. If a central dispatch system knows approximately when a taxi driver would be ending their current ride, it would be able to assign drivers more efficiently to each pickup request.
 In this group project, we ask you to build a deep learning model that can predict the trip time of taxi rides in Porto, Portugal based on their (initial) partial trajectories. The output of the model is the travel time of a given taxi trip.
 
 Final Ranking:
