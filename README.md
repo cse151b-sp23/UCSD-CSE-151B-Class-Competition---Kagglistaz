@@ -8,8 +8,10 @@ To improve transportation, it is important to be able to predict how long a taxi
 In this group project, we ask you to build a deep learning model that can predict the trip time of taxi rides in Porto, Portugal based on their (initial) partial trajectories. The output of the model is the travel time of a given taxi trip.
 
 Final Ranking:
-7/83 on the private leaderboard
-5/83 on the public leaderboard
+
+**7/83** on the private leaderboard
+
+**5/83** on the public leaderboard
 
 [Link to Final Report](https://drive.google.com/file/d/1cy56i-wrZIl3HSQee13qx9T8AdAktUXI/view?usp=sharing)
 
